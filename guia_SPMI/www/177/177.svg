@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_177"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_177{
+fill: #FFFFFF;
+}
+.g1_177{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_177{
+fill: #9C649E;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_177)">
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g0_177" />
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5H410.5Z" class="g1_177" />
+<path d="M411.4,623.6c0,0,-4.3,0,-4.3,4.4v25.9c0,0,0,4.4,4.3,4.4h26c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g2_177" />
+</g>
+</svg>

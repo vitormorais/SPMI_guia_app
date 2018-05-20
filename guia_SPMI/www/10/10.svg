@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_10"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_10{
+fill: #9C649E;
+}
+.g1_10{
+fill: #FFFFFF;
+}
+.g2_10{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_10{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_10{
+fill: #F0E9F1;
+}
+.g5_10{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_10)">
+<path d="M-4.2,623.6c0,0,-4.4,0,-4.4,4.4v25.9c0,0,0,4.4,4.4,4.4H21.7c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g0_10" />
+<path d="M-2.8,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g1_10" />
+<path d="M-2.8,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5h-26Z" class="g2_10" />
+</g>
+<path d="M43.7,65.4h324V43.7H43.7V65.4Z" class="g0_10" />
+<path d="M43.7,65V44.1m-.4,-.4H368.1M367.7,65V44.1m-324,77.4V65.7m-.4,-.3H368.1m-.4,56.1V65.7M43.3,121.9H368.1" class="g3_10" />
+<path d="M43.7,148.6h324V127H43.7v21.6Z" class="g0_10" />
+<path d="M43.7,148.3V127.4m-.4,-.4H368.1m-.4,21.3V127.4M43.7,235.7V149m0,159.8V236.5m-.4,-87.9H368.1m-.4,87.1V149m0,159.8V236.5M43.3,236.1H368.1M43.3,309.2H368.1" class="g3_10" />
+<path d="M43.7,344.2h324V314.3H43.7v29.9Z" class="g0_10" />
+<path d="M43.7,432.9h324v-30H43.7v30Z" class="g4_10" />
+<path d="M43.7,343.9V314.7m-.4,-.4H368.1m-.4,29.6V314.7m-324,87.9v-58m-.4,-.4H368.1m-.4,58.4v-58m-324,87.9V403.3m-.4,-.4H368.1m-.4,29.6V403.3M43.7,520V433.3m0,105.2V520.7m-.4,-87.8H368.1m-.4,87.1V433.3m0,105.2V520.7M43.3,520.3H368.1M43.3,538.9H368.1" class="g3_10" />
+<path d="M43.7,563.1h324V544H43.7v19.1Z" class="g0_10" />
+<path d="M43.7,563.1V544.4m-.4,-.4H368.1m-.4,19.1V544.4m-324,59.4V563.1" class="g3_10" />
+<path d="M44.1,563.1H367.3" class="g5_10" />
+<path d="M367.7,603.8V563.1M43.3,604.2H368.1" class="g3_10" />
+</svg>

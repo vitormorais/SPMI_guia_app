@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_131"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_131{
+fill: #FFFFFF;
+}
+.g1_131{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_131{
+fill: #9C649E;
+}
+.g3_131{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.6080556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_131{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_131)">
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g0_131" />
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5H410.5Z" class="g1_131" />
+<path d="M411.4,623.6c0,0,-4.3,0,-4.3,4.4v25.9c0,0,0,4.4,4.3,4.4h26c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g2_131" />
+</g>
+<path d="M88.9,154H189.3M88.8,217.3h92.8" class="g3_131" />
+<path d="M65.3,267.8H389.4V246.1H65.3v21.7Z" class="g2_131" />
+<path d="M65.4,267.4V246.5m-.4,-.4H83.2m0,0H389.8m-.4,21.3V246.5m-324,36.4V268.2m-.4,-.4H83.2m0,0H230.4M83.2,282.9V268.2m147.2,14.7V268.2m0,-.4H389.8m-.4,15.1V268.2m-324,55.1V283.7m0,80V323.3m0,104.8V363.7m0,127.5V428.1m0,81.8V491.2M65,283.3H83.2m0,40V283.7m0,80V323.3m0,104.8V363.7m0,127.5V428.1m0,81.8V491.2m0,-207.9H230.4m0,39.6V283.7m0,79.6V323.7m0,104.1V364.1m0,-80.8H389.8m-.4,39.6V283.7m0,79.6V323.7m0,104.1V364.1M230,323.3H389.8M230,363.7H389.8M230.4,490.8V428.5m-.4,-.4H389.8m-.4,62.7V428.5m-159,81.4V491.6m-.4,-.4H389.8m-.4,19.1V491.6m0,82.7v-64m-324,64V510.6m-.4,-.3H83.2m0,0H230.8m-147.6,64V510.6m147.2,63.7V510.6m-165,94.9V575.1m-.4,-.4H83.2m0,0H389.8M83.2,605.5V575.1m306.2,30.4V575.1M65,605.9H83.2m0,0H389.8" class="g4_131" />
+</svg>

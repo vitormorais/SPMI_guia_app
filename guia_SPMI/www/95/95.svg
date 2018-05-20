@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_95"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_95{
+fill: #FFFFFF;
+}
+.g1_95{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_95{
+fill: #9C649E;
+}
+.g3_95{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.6080556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_95{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.6080556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_95{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_95)">
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g0_95" />
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5H410.5Z" class="g1_95" />
+<path d="M411.4,623.6c0,0,-4.3,0,-4.3,4.4v25.9c0,0,0,4.4,4.3,4.4h26c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g2_95" />
+</g>
+<path d="M129.7,103.9H211" class="g3_95" />
+<path d="M187.2,121.3h41.9" class="g4_95" />
+<path d="M65.3,214.1H389.4V192.4H65.3v21.7Z" class="g2_95" />
+<path d="M65.4,213.7V192.8m-.4,-.4H389.8m-.4,21.3V192.8m-324,40.4V214.5m0,38.2V233.9m0,38.2V253.4m0,38.2V272.9m0,38.2V292.4m0,38.2V311.9m0,38.2V331.4m0,38.2V350.9m0,96.6V370.4m0,96.6V448.3M65,214.1H389.8m-.4,19.1V214.5m0,38.2V233.9m0,38.2V253.4m0,38.2V272.9m0,38.2V292.4m0,38.2V311.9m0,38.2V331.4m0,38.2V350.9m0,96.6V370.4m0,96.6V448.3M65,233.6H389.8M65,253H389.8M65,272.5H389.8M65,292H389.8M65,311.5H389.8M65,331H389.8M65,350.5H389.8M65,370H389.8M65,447.9H389.8M65.4,486.5V467.8m-.4,-.4H389.8m-.4,19.1V467.8M65,486.9H389.8" class="g5_95" />
+</svg>

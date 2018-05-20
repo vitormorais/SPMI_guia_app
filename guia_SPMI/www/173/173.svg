@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_173"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_173{
+fill: #FFFFFF;
+}
+.g1_173{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_173{
+fill: #9C649E;
+}
+.g3_173{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_173{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_173)">
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g0_173" />
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5H410.5Z" class="g1_173" />
+<path d="M411.4,623.6c0,0,-4.3,0,-4.3,4.4v25.9c0,0,0,4.4,4.3,4.4h26c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g2_173" />
+</g>
+<path d="M65.3,307.3H204.5v21.6H65.3V307.3Zm139.2,0H388.2v21.6H204.5V307.3Z" class="g2_173" />
+<path d="M204.5,328.5V307.6" class="g3_173" />
+<path d="M65.4,328.5V307.6m-.4,-.3H388.6m-.4,21.2V307.6M65.4,344.1V329.3m-.4,-.4H204.5m0,15.2V329.3m0,-.4H388.6m-.4,15.2V329.3M65.4,359.6V344.8m-.4,-.4H204.5m0,15.2V344.8m0,-.4H388.6m-.4,15.2V344.8M65.4,375.1V360.4M65,360H204.5m0,15.1V360.4m0,-.4H388.6m-.4,15.1V360.4M65.4,390.7V375.9m-.4,-.4H204.5m0,15.2V375.9m0,-.4H388.6m-.4,15.2V375.9M65.4,406.2V391.4m-.4,-.3H204.5m0,15.1V391.4m0,-.3H388.6m-.4,15.1V391.4M65.4,421.7V407m0,30.3V422.5m0,30.3V438.1m0,30.2V453.6m-.4,-47H204.5M65,422.1H204.5M65,437.7H204.5M65,453.2H204.5m0,-31.5V407m0,30.3V422.5m0,30.3V438.1m0,30.2V453.6m0,-47H388.6m-.4,15.1V407m0,30.3V422.5m0,30.3V438.1m0,30.2V453.6M204.5,422.1H388.6M204.5,437.7H388.6M204.5,453.2H388.6M65.4,483.9V469.1m-.4,-.4H204.5M65,484.3H204.5m0,-.4V469.1m0,-.4H388.6m-.4,15.2V469.1M204.5,484.3H388.6" class="g4_173" />
+</svg>

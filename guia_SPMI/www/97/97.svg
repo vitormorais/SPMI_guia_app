@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_97"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_97{
+fill: #FFFFFF;
+}
+.g1_97{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_97{
+fill: #9C649E;
+}
+.g3_97{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_97{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_97)">
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g0_97" />
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5H410.5Z" class="g1_97" />
+<path d="M411.4,623.6c0,0,-4.3,0,-4.3,4.4v25.9c0,0,0,4.4,4.3,4.4h26c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g2_97" />
+</g>
+<path d="M65.3,147.4H194V169H65.3V147.4Zm128.7,0h23.8V169H194V147.4Z" class="g2_97" />
+<path d="M65.4,168.7V147.8m-.4,-.4H194m0,0h24.2M194,168.7V147.8m23.8,20.9V147.8M65.4,184.2V169.4m0,30.3V185m0,91.4V200.5M65,169H194m0,0h24.2M194,184.2V169.4m23.8,14.8V169.4M194,199.7V185m23.8,14.7V185M194,276.4V200.5m23.8,75.9V200.5M65,184.6H194m0,0h24.2M65,200.1H194m0,0h24.2M65.4,292.3V277.2m0,42.5V292.3M65,276.8H194m0,15.1V277.2m0,42.5v-27m0,-15.9h24.2m-.4,15.1V277.2m0,42.5v-27m-24.2,-.4h24.6M65.4,335.2V320.4m-.4,-.3H194m0,0h24.2M194,335.2V320.4m23.8,14.8V320.4M65,335.6H194m0,0h24.2" class="g3_97" />
+<path d="M236.9,147.4h31.6v33.9H236.9V147.4Zm31.6,0H317v33.9H268.5V147.4Zm48.5,0h72.4v33.9H317V147.4Z" class="g2_97" />
+<path d="M268.5,180.9V147.8M317,180.9V147.8" class="g4_97" />
+<path d="M236.9,180.9V147.8m-.4,-.4H389.8m-.4,33.5V147.8M236.9,208.6V181.7m0,66.9V209.4m0,54.8V249.4m-.4,-68.1H389.8M268.5,208.6V181.7M317,208.6V181.7m72.4,26.9V181.7M268.5,248.6V209.4M317,248.6V209.4m72.4,39.2V209.4M268.5,264.2V249.4M317,264.2V249.4m72.4,14.8V249.4M236.5,209H389.8M236.5,249H389.8M236.5,264.5H389.8" class="g3_97" />
+</svg>

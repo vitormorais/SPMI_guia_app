@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 433 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_45"><path d="M0,649.6V0H433V649.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_45{
+fill: #FFFFFF;
+}
+.g1_45{
+fill: none;
+stroke: #9C649E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_45{
+fill: #9C649E;
+}
+.g3_45{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.6080556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_45{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_45{
+fill: none;
+stroke: #9C649E;
+stroke-width: 0.77916664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_45)">
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5Z" class="g0_45" />
+<path d="M410.5,44.1c0,0,-4.4,0,-4.4,4.5V238.5c0,0,0,4.5,4.4,4.5h26.1c0,0,4.4,0,4.4,-4.5V48.6c0,0,0,-4.5,-4.4,-4.5H410.5Z" class="g1_45" />
+<path d="M411.4,623.6c0,0,-4.3,0,-4.3,4.4v25.9c0,0,0,4.4,4.3,4.4h26c0,0,4.3,0,4.3,-4.4V628c0,0,0,-4.4,-4.3,-4.4Z" class="g2_45" />
+</g>
+<path d="M71.6,317.4H208.5" class="g3_45" />
+<path d="M65.3,43.7H222.6V65.4H65.3V43.7Zm157.3,0h94.9V65.4H222.6V43.7Zm94.9,0h71.9V65.4H317.5V43.7Z" class="g2_45" />
+<path d="M222.6,65V44.1M317.5,65V44.1" class="g4_45" />
+<path d="M65.4,65V44.1M65,43.7H389.8M389.4,65V44.1M65.4,86.6V65.7m0,42.6V87.4M65,65.4H389.8M222.6,86.6V65.7m94.9,20.9V65.7m71.9,20.9V65.7M222.6,108.3V87.4m94.9,20.9V87.4m71.9,20.9V87.4M65,87H389.8M65.4,129.9V109m-.4,-.3H222.6m0,21.2V109m0,-.3H389.8m-.4,21.2V109m-324,42.6V130.7m-.4,-.4H317.5m-94.9,21.3V130.7m94.9,20.9V130.7m0,-.4h72.3m-.4,21.3V130.7m-324,42.5V152.4M65,152H222.6M65,173.6H222.6m0,-.4V152.4m0,-.4h94.9m-94.9,21.6H389.8M317.5,152h72.3m-.4,21.2V152.4" class="g5_45" />
+<path d="M129.9,325.3H238.2v21.6H129.9V325.3Zm108.3,0H389.4v21.6H238.2V325.3Z" class="g2_45" />
+<path d="M238.2,346.5V325.7" class="g4_45" />
+<path d="M129.9,346.5V325.7m-.4,-.4H389.8m-.4,21.2V325.7M65.3,386.5V347.3m-.3,-.4h64.9m0,39.6V347.3m0,-.4H238.2m0,39.6V347.3m0,-.4H389.8m-.4,39.6V347.3M65.3,427.6V387.3m-.3,-.4h64.9m0,40.7V387.3m0,-.4H238.2m0,40.7V387.3m0,-.4H389.8m-.4,40.7V387.3M65.3,457.8V428.4M65,428h65.3M65,458.2h64.9m0,-.4V428.4m0,29.8H238.2m0,-.4V428.4m-.4,-.4h152m-.4,29.8V428.4M238.2,458.2H389.8" class="g5_45" />
+</svg>

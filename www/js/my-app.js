@@ -44,7 +44,7 @@ $$(document).on('pageInit', '.page[data-page="about"]', function (e) {
 
 ///INCLUDE PDF
 
-function jqUpdateSize(){
+/*function jqUpdateSize(){
     var pixels = $(window).height();
 
     pixels = pixels - 48;
@@ -53,3 +53,4 @@ function jqUpdateSize(){
 };
 $(document).ready(jqUpdateSize)
 $(window).resize(jqUpdateSize); 
+*/

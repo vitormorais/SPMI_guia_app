@@ -42,6 +42,19 @@ $$(document).on('pageInit', '.page[data-page="about"]', function (e) {
     myApp.alert('Here comes About page');
 })
 
+
+$('.accordion-item').on('accordion:opened', function () {
+ myApp.dialog.alert('Accordion item opened');
+});
+
+$('.accordion-item').on('accordion:closed', function (e) {
+ myApp.dialog.alert('Accordion item closed');
+});
+
+myApp.on('accordionOpened', function (el) {
+  console.log('The following element opened:');
+  console.log(el);
+});
 ///INCLUDE PDF
 
 /*function jqUpdateSize(){

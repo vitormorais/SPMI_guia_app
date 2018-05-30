@@ -4,16 +4,41 @@
     "uninstalled": []
   },
   "config_munge": {
-    "files": {}
+    "files": {
+      "config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"SitewaertsDocumentViewer\"><param name=\"ios-package\" value=\"SitewaertsDocumentViewer\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.vmorais.get_started_full"
+    },
+    "cordova-plugin-document-viewer": {
+      "PACKAGE_NAME": "com.vmorais.get_started_full"
     }
   },
   "dependent_plugins": {},
-  "modules": [],
+  "modules": [
+    {
+      "id": "cordova-plugin-document-viewer.SitewaertsDocumentViewer",
+      "file": "plugins/cordova-plugin-document-viewer/www/sitewaertsdocumentviewer.js",
+      "pluginId": "cordova-plugin-document-viewer",
+      "clobbers": [
+        "cordova.plugins.SitewaertsDocumentViewer",
+        "SitewaertsDocumentViewer"
+      ]
+    }
+  ],
   "plugin_metadata": {
-    "cordova-plugin-whitelist": "1.3.3"
+    "cordova-plugin-whitelist": "1.3.3",
+    "cordova-plugin-document-viewer": "0.9.10"
   }
 }

@@ -25,5 +25,4 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <engine name="android" spec="^7.0.0" />
-    <plugin name="cordova-plugin-document-viewer" spec="https://github.com/sitewaerts/cordova-plugin-document-viewer.git" />
 </widget>

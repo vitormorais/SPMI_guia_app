@@ -9,9 +9,6 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.vmorais.get_started_full"
-    },
-    "cordova-plugin-document-viewer": {
-      "PACKAGE_NAME": "com.vmorais.get_started_full"
     }
   },
   "dependent_plugins": {}

@@ -13,12 +13,14 @@
     "cordova-android": "^7.0.0",
     "cordova-ios": "^4.5.4",
     "cordova-plugin-document-viewer": "git+https://github.com/sitewaerts/cordova-plugin-document-viewer.git",
-    "cordova-plugin-whitelist": "^1.3.3"
+    "cordova-plugin-whitelist": "^1.3.3",
+    "de.cyberkatze.phonegap.plugin.PdfViewer": "git+https://github.com/cyberkatze/pdfViewer.git"
   },
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
-      "cordova-plugin-document-viewer": {}
+      "cordova-plugin-document-viewer": {},
+      "de.cyberkatze.phonegap.plugin.PdfViewer": {}
     },
     "platforms": [
       "ios",

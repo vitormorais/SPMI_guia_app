@@ -24,4 +24,7 @@
     <feature name="SitewaertsDocumentViewer">
         <param name="android-package" value="de.sitewaerts.cordova.documentviewer.DocumentViewerPlugin" />
     </feature>
+    <feature name="PdfViewer">
+        <param name="android-package" value="de.cyberkatze.phonegap.plugin.PdfViewer" />
+    </feature>
 </widget>

@@ -53,15 +53,16 @@
             <!-- Top Navbar-->
             <div class="navbar">
                 <div class="navbar-inner">
-                    <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
-                    <div class="center sliding">Awesome App</div>
-                    <div class="right">
+                    <div class="left">
                         <!--
                           Right link contains only icon - additional "icon-only" class
                           Additional "open-panel" class tells app to open panel when we click on this link
                         -->
                         <a href="#" class="link icon-only open-panel"><i class="icon icon-bars"></i></a>
                     </div>
+                	
+                    <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
+                    <div class="center sliding">Guia do Jovem Internista 2016</div>
                 </div>
             </div>
             <!-- Pages container, because we use fixed-through navbar and toolbar, it has additional appropriate classes-->
@@ -71,16 +72,87 @@
                     <!-- Scrollable page content -->
                     <div class="page-content">
                         <div class="content-block">
-                            <p>Page content goes here</p>
-                            <!-- Link to another page -->
-                            <a href="about.html">About app</a>
-						<!--
-                            <iframe width="100%" height="500px" src="pdf/11/11.1.pdf">   
-                            </iframe >
-                        -->
-                        <object data="pdf/11/11.1.pdf" type="application/pdf" width="100%" height="500px" >
-                        	<a href="pdf/11/11.1.pdf" > Download file.pdf </a>
-                        </object>
+                            <!-- List View -->
+<div class="block-title">List View Accordion</div>
+<div class="list accordion-list">
+  <ul>
+    <li class="accordion-item"><a href="#" class="item-content item-link">
+        <div class="item-inner">
+          <div class="item-title">Item 1</div>
+        </div></a>
+      <div class="accordion-item-content">
+        <div class="block">
+          <p>Item 1 content. Lorem ipsum dolor sit amet...</p>
+        </div>
+      </div>
+    </li>
+    <li class="accordion-item"><a href="#" class="item-content item-link">
+        <div class="item-inner">
+          <div class="item-title">Item 2</div>
+        </div></a>
+      <div class="accordion-item-content">
+        <div class="block">
+          <p>Item 2 content. Lorem ipsum dolor sit amet...</p>
+        </div>
+      </div>
+    </li>
+    ...
+  </ul>
+</div>
+
+<!-- Separate collapsibles - omit "accordion-list" class-->
+<div class="block-title">Separate Collapsibles</div>
+<div class="list">
+  <ul>
+    <li class="accordion-item"><a href="#" class="item-content item-link">
+        <div class="item-inner">
+          <div class="item-title">Item 1</div>
+        </div></a>
+      <div class="accordion-item-content">
+        <div class="block">
+          <p>Item 1 content. Lorem ipsum dolor sit amet...</p>
+        </div>
+      </div>
+    </li>
+    <li class="accordion-item"><a href="#" class="item-content item-link">
+        <div class="item-inner">
+          <div class="item-title">Item 2</div>
+        </div></a>
+      <div class="accordion-item-content">
+        <div class="block">
+          <p>Item 2 content. Lorem ipsum dolor sit amet...</p>
+        </div>
+      </div>
+    </li>
+    ...
+  </ul>
+</div>
+
+<!-- Custom Accordion -->
+<div class="block-title">Custom Accordion</div>
+<div class="block accordion-list custom-accordion">
+  <div class="accordion-item">
+    <div class="accordion-item-toggle">
+      <i class="icon icon-plus">+</i>
+      <i class="icon icon-minus">-</i>
+      <span>Item 1</span>
+    </div>
+    <div class="accordion-item-content">
+      <p>Item 1 content. Lorem ipsum dolor sit amet...</p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <div class="accordion-item-toggle">
+      <i class="icon icon-plus">+</i>
+      <i class="icon icon-minus">-</i>
+      <span>Item 2</span>
+    </div>
+    <div class="accordion-item-content">
+      <p>Item 2 content. Lorem ipsum dolor sit amet...</p>
+    </div>
+  </div>
+  ...
+</div>
                         </div>
                     </div>
                 </div>
@@ -89,8 +161,8 @@
             <div class="toolbar">
                 <div class="toolbar-inner">
                     <!-- Toolbar links -->
-                    <a href="#" class="link">Link 1</a>
-                    <a href="#" class="link">Link 2</a>
+                    <a href="#" class="link">back</a>
+                    <a href="#" class="link">search</a>
                 </div>
             </div>
         </div>

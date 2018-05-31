@@ -26,4 +26,5 @@
     </platform>
     <engine name="android" spec="^7.0.0" />
     <plugin name="tableau-mobile-connected-client" spec="https://github.com/tableau/mobile-connected-client.git" />
+    <plugin name="cordova-plugin-document-viewer" spec="^0.9.10" />
 </widget>

@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-document-viewer@0.9.10",
+      "/home/vmorais/DEV/todo"
+    ]
+  ],
+  "_from": "cordova-plugin-document-viewer@0.9.10",
+  "_id": "cordova-plugin-document-viewer@0.9.10",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-document-viewer",
+  "_nodeVersion": "6.11.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-document-viewer_0.9.10_1527578525973_0.3984083677085768"
+  },
+  "_npmUser": {
+    "email": "schauerte@sitewaerts.de",
+    "name": "regnete"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-document-viewer",
+    "raw": "cordova-plugin-document-viewer@0.9.10",
+    "rawSpec": "0.9.10",
+    "scope": null,
+    "spec": "0.9.10",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-document-viewer/-/cordova-plugin-document-viewer-0.9.10.tgz",
+  "_shasum": "bd9705a2a0a419fb34e1e8564e7f356a5d7473c6",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-document-viewer@0.9.10",
+  "_where": "/home/vmorais/DEV/todo",
+  "author": {
+    "name": "Felix Schauerte"
+  },
+  "bugs": {
+    "url": "https://github.com/sitewaerts/cordova-plugin-document-viewer/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-document-viewer",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "PDF Document viewer cordova plugin for iOS, Android and Windows 8.1 + 10",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 608,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbDP+gCRA9TVsSAnZWagAARwYP+QFOBontnBx6pxE8AxKJ\nLqpTkODC7uqGkKFrxGU5wgEKgUnO/L2yB2n+AddxZmp2oQ0Dd2v94yGGb9gU\nGrMfR4fn9TdXWfvkOD4nBg4/UlZAjH8qnclN283xi/X5jqQAqhkfcYl9T0if\nKn4sdtGvz6P0evXLpWB0gjxjmAkiiRMrJE8+FzhaDEso8FeZmkPXRt1ac4rY\npuPsy+dNsKyTETc4tWxcLnMpxYeX5Ds8/GzxB2Jgt2Du1aqxejQ+NkZEuHlx\n+Tr88mMc/fkh+F50HmMXsxnBKJ5VXqpocxTzxwPyrIkAZTzu3VA9bzRZGtdp\n8dYQ14emRC52OdPbDJ9NsF751/MkpTY7DmqiJLtwCZhoz+PGkYOFOQr/iX6l\nvDfTYoxdOoNIaVlkg23nM+zsw4tdXp836ytmZB3iG4/eZ+rz9E+dNEpngY96\nUALWM9TrJUeM3MON7GNpZ/HxCfIotvEXcg63LWStU/JsEtgGiO5LhVt3Y+Lr\nHQz1ORIGycJKpjADaA8R9WvpztYFo8jKJX1xv5nLjzZVoNAYhtUX3V4gvn0M\n319VAjavzPSAjmNT8saOXvuaTyq/QdUMfUdu5sftDYYPItucDrSpee3+InI6\nQQAZc1/WU0zCEpkJrbUzLCEnCeIL2h/I51f7RvFf5KUcpKma8c1zu1yMCQXX\nkEAU\r\n=k/wF\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "bd9705a2a0a419fb34e1e8564e7f356a5d7473c6",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-document-viewer/-/cordova-plugin-document-viewer-0.9.10.tgz",
+    "unpackedSize": 26818624
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "0.9.10": {
+        "cordova": ">=3.7.0",
+        "cordova-windows": ">=4.4.0"
+      }
+    }
+  },
+  "gitHead": "25b82d959c20d7880d513100c2b979e1e15349dc",
+  "homepage": "https://github.com/sitewaerts/cordova-plugin-document-viewer#readme",
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "ecosystem:cordova",
+    "pdf"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "esch",
+      "email": "kontakt@sitewaerts.de"
+    },
+    {
+      "name": "regnete",
+      "email": "schauerte@sitewaerts.de"
+    }
+  ],
+  "name": "cordova-plugin-document-viewer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitewaerts/cordova-plugin-document-viewer.git"
+  },
+  "scripts": {},
+  "version": "0.9.10"
+}

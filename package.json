@@ -1,8 +1,8 @@
 {
-  "name": "com.vmorais.get_started_full",
-  "displayName": "HelloCordova",
+  "name": "com.vmorais.guia_spmi",
+  "displayName": "Guia do Jovem Internista",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "Guia do jovem Internista",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,15 +12,13 @@
   "dependencies": {
     "cordova-android": "^7.0.0",
     "cordova-ios": "^4.5.4",
-    "cordova-plugin-document-viewer": "git+https://github.com/sitewaerts/cordova-plugin-document-viewer.git",
-    "cordova-plugin-whitelist": "^1.3.3",
-    "de.cyberkatze.phonegap.plugin.PdfViewer": "git+https://github.com/cyberkatze/pdfViewer.git"
+    "cordova-plugin-document-viewer": "^0.9.10",
+    "cordova-plugin-whitelist": "^1.3.3"
   },
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
-      "cordova-plugin-document-viewer": {},
-      "de.cyberkatze.phonegap.plugin.PdfViewer": {}
+      "cordova-plugin-document-viewer": {}
     },
     "platforms": [
       "ios",

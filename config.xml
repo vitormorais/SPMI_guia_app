@@ -25,4 +25,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <engine name="android" spec="^7.0.0" />
+    <plugin name="tableau-mobile-connected-client" spec="https://github.com/tableau/mobile-connected-client.git" />
 </widget>

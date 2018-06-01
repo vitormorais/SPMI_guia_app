@@ -22,3 +22,138 @@ angular.module('starter', ['ionic'])
     }
   });
 })
+
+function PULMONAR_function() {
+    
+    var x = document.getElementById("PULMONAR");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function CARDIO_function() {
+    var x = document.getElementById("CARDIO");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function METABOL_function() {
+    var x = document.getElementById("METABOL");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function NERVOSO_function() {
+    var x = document.getElementById("NERVOSO");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function GASTRO_function() {
+    var x = document.getElementById("GASTRO");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function INFECTO_function() {
+    var x = document.getElementById("INFECTO");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function INTENSIVO_function() {
+    var x = document.getElementById("INTENSIVO");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function HEMATO_function() {
+    var x = document.getElementById("HEMATO");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function OUTROS_function() {
+    var x = document.getElementById("OUTROS");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function TABELAS_function() {
+    var x = document.getElementById("TABELAS");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function AUTORES_function() {
+    var x = document.getElementById("AUTORES");
+    if (x.style.display === "none") {
+        disableAll();
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function disableAll() {
+    var x = document.getElementById("PULMONAR");
+    x.style.display = "none";
+    var x = document.getElementById("CARDIO");
+    x.style.display = "none";
+    var x = document.getElementById("METABOL");
+    x.style.display = "none";
+    var x = document.getElementById("NERVOSO");
+    x.style.display = "none";
+    var x = document.getElementById("GASTRO");
+    x.style.display = "none";
+    var x = document.getElementById("INFECTO");
+    x.style.display = "none";
+    var x = document.getElementById("INTENSIVO");
+    x.style.display = "none";
+    var x = document.getElementById("HEMATO");
+    x.style.display = "none";
+    var x = document.getElementById("OUTROS");
+    x.style.display = "none";
+    var x = document.getElementById("TABELAS");
+    x.style.display = "none";
+    var x = document.getElementById("AUTORES");
+    x.style.display = "none";
+}

@@ -157,3 +157,10 @@ function disableAll() {
     var x = document.getElementById("AUTORES");
     x.style.display = "none";
 }
+
+openLocalPdf() {
+    const options: DocumentViewerOptions = {
+      title: 'My PDF'
+    }
+    this.document.viewDocument('../pdf/1/1.1.pdf', 'application/pdf', options);
+  }

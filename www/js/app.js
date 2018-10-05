@@ -48,6 +48,8 @@ app_spmi.run(function($ionicPlatform) {
 
 
 
+
+
 function PULMONAR_function() {
     
     var x = document.getElementById("PULMONAR");
